@@ -13,7 +13,6 @@ dir_glob = lambda do
 end
 
 exclude_dirs = [
-  # only actually include gusto-apis ... but this is easier for right now
   "components/rails-backports",
   "components/bank_files",
   "components/gusto_faker",
