@@ -4,6 +4,7 @@ GEM
     benchmark-ips (2.14.0)
     benchmark-memory (0.2.0)
       memory_profiler (~> 1)
+    colorize (1.1.0)
     memory_profiler (1.0.2)
 
 PLATFORMS
@@ -13,6 +14,7 @@ PLATFORMS
 DEPENDENCIES
   benchmark-ips
   benchmark-memory
+  colorize
 
 BUNDLED WITH
    2.5.17
